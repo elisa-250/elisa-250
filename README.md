@@ -9,11 +9,11 @@
 <a href="mailto:elisa.6996@aluno.pr.senac.br">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=elisa-250-&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Contador de Visitas" />
+<img src="https://komarev.com/ghpvc/?username=elisa-250&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=for-the-badge" alt="Contador de Visitas" />
 </div>
 <br/>
 <!-- LINHA DIVISÓRIA ANIMADA -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif%22 width="100%">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <br/>
 <h1>👨‍💻 Sobre Mim</h1>
 <p>
